@@ -1,11 +1,25 @@
-CREATE TABLE Usuario(id integer PRIMARY KEY, nombre varchar(30), sexo varchar(9), edad integer, dirección varchar(30), correo varchar(30))
 
-CREATE TABLE TiendaProductos(id integer PRIMARY KEY, varchar(30), nombre varchar(30), ubicacion varchar(30), teléfono integer, correo varchar(30), rubro varchar(15)) 
+Usuario(id integer PRIMARY KEY, nombre varchar(30), sexo varchar(9), edad integer, dirección varchar(30), correo varchar(30), nacionalidad varchar(15))
 
-CREATE TABLE TiendaServicios(id integer PRIMARY KEY, varchar(30), nombre varchar(30), ubicacion varchar(30), teléfono integer, correo varchar(30), horario time, rubro varchar(15))
+TiendaProductos(id integer PRIMARY KEY, varchar(30), nombre varchar(30), ubicacion varchar(30), teléfono integer, correo varchar(30), rubro varchar(15)) 
 
-CREATE TABLE Producto(id integer PRIMARY KEY, nombre varchar(30), precio integer, descripción varchar(30))
+TiendaServicios(id integer PRIMARY KEY, varchar(30), nombre varchar(30), ubicacion varchar(30), teléfono integer, correo varchar(30), rubro varchar(15), horario time)
 
-CREATE TABLE Servicio(id integer PRIMARY KEY, nombre varchar(30), precio integer, descripción varchar(30), fecha_limite date)
+Producto(id integer PRIMARY KEY, nombre varchar(30), precio integer, descripción varchar(30), tipo varchar(15))
 
-CREATE TABLE Compra(id integer, id_usuario integer, id_review varchar(30)
+Servicio(id integer PRIMARY KEY, nombre varchar(30), precio integer, descripción varchar(30), tipo varchar(15))
+
+ProductoComprado(id integer PRIMARY KEY, id_compra integer, id_producto integer, id_tienda_productos)
+
+ServicioComprado(id integer PRIMARY KEY, id_compra integer, id_servicio integer, id_tienda_servicios, fecha_limite date)
+
+Compra(id integer PRIMARY KEY, fecha date, id_usuario integer, id_review varchar(30))
+
+
+CONNSULTAS 
+
+1. id usuario -> 
+
+
+
+
