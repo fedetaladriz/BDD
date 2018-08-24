@@ -13,12 +13,11 @@ ProductoComprado(id integer PRIMARY KEY, id_compra integer, id_producto integer,
 
 ServicioComprado(id integer PRIMARY KEY, id_compra integer, id_servicio integer, id_tienda_servicios, fecha_limite date)
 
-Compra(id integer PRIMARY KEY, fecha date, id_usuario integer, id_review varchar(30))
+Compra(id integer PRIMARY KEY, fecha date, id_usuario integer, review varchar(30))
 
 
 CONNSULTAS 
 
-1. id usuario -> 
 
 
 
