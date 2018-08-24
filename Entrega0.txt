@@ -33,7 +33,7 @@ c1 = \pi_{id\_tienda\_productos}(\bowtie_{b.id = ProductoComprado.id\_compra})
 c2 = \pi_{id\_tienda\_servicios}(\bowtie_{b.id = ServicioComprado.id\_servicio})
 
 %Se obtienen los nombres de las tiendas
-d = \pi_{nombre} ((c1 \bowtie_{c.id\_tienda = c1.id\_tienda\_productos} TiendaProductos) \bigcup (c2 \bowtie_{c.id\_tienda = c1.id\_tienda\_servicios} TiendaServicios))
+d = \pi_{nombre} ((c1 \bowtie_{c1.id\_tienda\_productos = TiendaProductos.id} TiendaProductos) \bigcup (c2 \bowtie_{c1.id\_tienda\_servicios = TiendaServicios.id} TiendaServicios))
 
 
 
