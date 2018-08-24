@@ -22,21 +22,43 @@ Consultas
 \textbf{1)}
 
 %Se obtiene el id del comprador
-a = \sigma_{nombre = nombre\_usuario}(\pi_{nombre}(Usuario))
+$\rho$ $(Comprador,$ $\sigma_{nombre = nombre\_usuario}(\pi_{nombre}(Usuario))$
 
 %Se obtiene tabla con los ids de las compras del comprador
-b = \pi_{id}(\sigma_{id\_usuario = a}(compras))
+$\rho$ $(Compras,$ $\pi_{id}(\sigma_{Comprador.id = id}(Compra))$
 
 %Se obtiene los ids de las tiendas de las compras
-c1 = \pi_{id\_tienda\_productos}(\bowtie_{b.id = ProductoComprado.id\_compra})
+$\rho$ $(TiendasProductos,$ $\pi_{id\_tienda\_productos}(Compras\bowtie_{compra.id = ProductoComprado.id\_compra}ProductoComprado)$
 
-c2 = \pi_{id\_tienda\_servicios}(\bowtie_{b.id = ServicioComprado.id\_servicio})
+$\rho$ $(TiendasServicios,$ $\pi_{id\_tienda\_servicios}(Compras\bowtie_{Compras.id = ServicioComprado.id\_servicio}ProductoComprado)$
 
 %Se obtienen los nombres de las tiendas
-d = \pi_{nombre} ((c1 \bowtie_{c1.id\_tienda\_productos = TiendaProductos.id} TiendaProductos) \bigcup (c2 \bowtie_{c1.id\_tienda\_servicios = TiendaServicios.id} TiendaServicios))
+$\pi_{nombre} ((TiendasProductos \bowtie_{TiendasProductos.id\_tienda\_productos = TiendaProductos.id} TiendaProductos) \bigcup (TiendasServicios \bowtie_{TiendasServicios.id\_tienda\_servicios = TiendaServicios.id} TiendaServicios))$
 
+\textbf{2)}
 
+%Se obtienen todos los servicios comprados
 
+$\rho$ $(TiendaComprada,$ $\sigma_{id_tienda_serivicios=id_tienda}(\pi_{id_tienda_servicios}(ServicioComprado)$
 
+%obtener id de usuarios que han comprado en la tienda
+$\rho$ $(UsuariosCompra,$ $\pi_{id_usuario}(TiendaComprada \bowtie_{TiendaComprada.id_compra = Compra.id}Compra))$
+
+%filtrar por edad
+$\sigma_{Usuario.edad >= 18}(UsuariosCompra\bowtie_{UsuariosCompra.id_usuario = Usuario.id}Usuario)$
+
+\textbf{3)}
+
+%encontrar todos los productos comprados dado el id
+
+$\rho$ $(TodosProductos,$ $\sigma_{Producto.id=id_producto}(Producto \bowtie_{producto.id = ProductoComprado.id}ProductoComprado)$
+
+%encontrar los usuarios a partir del id de compra
+
+$\rho$ $(UsuariosCompra,$ $TodosProductos \bowtie_{TodosProductos.id_compra = Compra.id}Compra)$
+
+%encontrar a los usuario y mostrar sus nombres
+
+$\pi_{nombre}(UsuariosCompra \bowtie_{UsuariosCompra.id_usuario = Usuario.id}Usuario)$
 
 
