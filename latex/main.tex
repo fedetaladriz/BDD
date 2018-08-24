@@ -1,0 +1,67 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\begin{document}
+ \section{Diagrama}
+ \begin{itemize}
+\item Usuario(id integer PRIMARY KEY, nombre varchar(30), sexo varchar(9), edad integer, dirección varchar(30), correo varchar(30), nacionalidad varchar(15))
+
+\item TiendaProductos(id integer PRIMARY KEY, varchar(30), nombre varchar(30), ubicacion varchar(30), teléfono integer, correo varchar(30), rubro varchar(15)) 
+
+\item TiendaServicios(id integer PRIMARY KEY, varchar(30), nombre varchar(30), ubicacion varchar(30), teléfono integer, correo varchar(30), rubro varchar(15), horario time)
+
+\item Producto(id integer PRIMARY KEY, nombre varchar(30), precio integer, descripción varchar(30), tipo varchar(15))
+
+\item Servicio(id integer PRIMARY KEY, nombre varchar(30), precio integer, descripción varchar(30), tipo varchar(15))
+
+\item ProductoComprado(id integer PRIMARY KEY, id\_compra integer, id\_producto\_ integer, id\_tienda\_productos)
+
+\item ServicioComprado(id integer PRIMARY KEY, id\_compra integer, id\_servicio integer, id\_tienda\_servicios, fecha\_limite date)
+
+\item Compra(id integer PRIMARY KEY, fecha date, id\_usuario integer, review varchar(30))
+\end{itemize}
+ \section{Consultas}
+ 
+	\subsection{}
+%Se obtiene el id del comprador
+$\rho$ $(Comprador,$ $\sigma_{nombre = nombre\_usuario}(\pi_{nombre}(Usuario))$
+
+
+%Se obtiene tabla con los ids de las compras del comprador
+$\rho$ $(Compras,$ $\pi_{id}(\sigma_{Comprador.id = id}(Compra))$
+
+%Se obtiene los ids de las tiendas de las compras
+$\rho$ $(TiendasProductos,$ $\pi_{id\_tienda\_productos}(Compras\bowtie_{compra.id = ProductoComprado.id\_compra}ProductoComprado)$
+
+$\rho$ $(TiendasServicios,$ $\pi_{id\_tienda\_servicios}(Compras\bowtie_{Compras.id = ServicioComprado.id\_servicio}ProductoComprado)$
+
+%Se obtienen los nombres de las tiendas
+$\pi_{nombre} ((TiendasProductos \bowtie_{TiendasProductos.id\_tienda\_productos = TiendaProductos.id} TiendaProductos) \bigcup (TiendasServicios \bowtie_{TiendasServicios.id\_tienda\_servicios = TiendaServicios.id} TiendaServicios))$
+
+\subsection{}
+
+%Se obtienen todos los servicios comprados
+
+$\rho$ $(TiendaComprada,$ $\sigma_{id_tienda_serivicios=id_tienda}(\pi_{id_tienda_servicios}(ServicioComprado)$
+
+%obtener id de usuarios que han comprado en la tienda
+$\rho$ $(UsuariosCompra,$ $\pi_{id_usuario}(TiendaComprada \bowtie_{TiendaComprada.id_compra = Compra.id}Compra))$
+
+%filtrar por edad
+$\sigma_{Usuario.edad >= 18}(UsuariosCompra\bowtie_{UsuariosCompra.id_usuario = Usuario.id}Usuario)$
+
+\subsection{}
+
+%encontrar todos los productos comprados dado el id
+
+$\rho$ $(TodosProductos,$ $\sigma_{Producto.id=id_producto}(Producto \bowtie_{producto.id = ProductoComprado.id}ProductoComprado)$
+
+%encontrar los usuarios a partir del id de compra
+
+$\rho$ $(UsuariosCompra,$ $TodosProductos \bowtie_{TodosProductos.id_compra = Compra.id}Compra)$
+
+%encontrar a los usuario y mostrar sus nombres
+
+$\pi_{nombre}(UsuariosCompra \bowtie_{UsuariosCompra.id_usuario = Usuario.id}Usuario)$
+
+\end{document}
