@@ -1,4 +1,4 @@
-,id_compraservicio,id_tienda_s,id_usuario,fecha_de_compra,fecha_expiracion
+id_compraservicio,id_tienda_s,id_usuario,fecha_de_compra,fecha_expiracion
 0,0,143,1,2/05/2014,26/07/2015
 1,1,145,0,15/02/2014,12/07/2015
 2,2,141,8,9/12/2014,19/12/2015

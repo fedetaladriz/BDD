@@ -1,5 +1,5 @@
-,id_producto,nombre,descripcion,precio
-0,7801130794486,LÁMPARA DE CIELO 3 LUCES PYTON EGLO,"Lámpara de Techo 3 luces Pyton Eglo
+id_producto,nombre,descripcion,precio
+"0,7801130794486,LÁMPARA DE CIELO 3 LUCES PYTON EGLO,""Lámpara de Techo 3 luces Pyton Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -13,8 +13,8 @@ Dimensiones
 Altura: 110 cm.
 Largo: 51,5 cm.
 Ancho: 7,5 cm.
-Número de ampolletas: 3x33W G9.","$162.000,00"
-1,7801305809069,BASEMENT HOME LÁMPARA ARTICULADA SOBREMESA,"Lámpara Sobremesa
+"Número de ampolletas: 3x33W G9."",""$162.000,00"""
+"1,7801305809069,BASEMENT HOME LÁMPARA ARTICULADA SOBREMESA,""Lámpara Sobremesa"
 Modelo: Lámpara Articulada Sobremesa
 Marca: Diseño 3
 Alto: 56 cm
@@ -22,8 +22,8 @@ Ancho: 20 cm
 Profundidad: 54 cm
 Material: Cromo-Eco cuero
 Color: Cromo
-Estilo: Moderno","$91.000,00"
-2,7801357246126,LÁMPARA DE CIELO PINTO NERO EGLO,"Lámpara de Cielo Pinto Nero Eglo
+"Estilo: Moderno"",""$91.000,00"""
+"2,7801357246126,LÁMPARA DE CIELO PINTO NERO EGLO,""Lámpara de Cielo Pinto Nero Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -36,8 +36,8 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 110 cm.
 Diámetro: 11 cm.
-Número de ampolletas: 1x60W E27.","$64.000,00"
-3,7801470268777,LÁMPARA DE CIELO LORD EGLO,"Lámpara de Cielo Lord Eglo
+"Número de ampolletas: 1x60W E27."",""$64.000,00"""
+"3,7801470268777,LÁMPARA DE CIELO LORD EGLO,""Lámpara de Cielo Lord Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -50,8 +50,8 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 110 cm.
 Diámetro: 36 cm.
-Número de ampolletas: 1x100W E27.","$23.229,00"
-4,7801566649404,BASEMENT HOME LÁMPARA DE PIE TRIPODE NEGRO,"Lámpara de Pie
+"Número de ampolletas: 1x100W E27."",""$23.229,00"""
+"4,7801566649404,BASEMENT HOME LÁMPARA DE PIE TRIPODE NEGRO,""Lámpara de Pie"
 Modelo: Tripode
 Marca: Basement Home
 Alto: 176 cm
@@ -59,8 +59,8 @@ Ancho: 60 cm
 Profundidad: 60 cm
 Material: Acero Pintado
 Color: Negro
-Estilo: Moderno","$78.347,00"
-5,7801585511645,LÁMPARA DE MESA TANGA EGLO,"Lámpara Sobremesa Tanga Eglo
+"Estilo: Moderno"",""$78.347,00"""
+"5,7801585511645,LÁMPARA DE MESA TANGA EGLO,""Lámpara Sobremesa Tanga Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -73,14 +73,14 @@ Diseño: Cromado.
 Dimensiones
 Altura: 43 cm.
 Ancho base: 6 cm.
-Número de ampolletas: 1x40W G9.","$67.094,00"
-6,7801697430469,MICA LAMPARA 3 LUCES LÁGRIMAS GRIS,"Lámpara de Colgar
+"Número de ampolletas: 1x40W G9."",""$67.094,00"""
+"6,7801697430469,MICA LAMPARA 3 LUCES LÁGRIMAS GRIS,""Lámpara de Colgar"
 Marca: Mica
 Modelo: Lágrimas
 Color: Gris
 Ancho: 45 cm
-Alto: 55 cm","$74.708,00"
-7,7801888869528,LÁMPARA DE CIELO REED AMARILLO KOZIOL,"Lámpara de Cielo Reed Amarillo Koziol
+"Alto: 55 cm"",""$74.708,00"""
+"7,7801888869528,LÁMPARA DE CIELO REED AMARILLO KOZIOL,""Lámpara de Cielo Reed Amarillo Koziol"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hoga, darle claridad a tus ambientes. ¡Aprovecha esta oportunidad y decora con lo exclusivo que trae Deco hogar Paris!
 
@@ -94,8 +94,8 @@ Número y tipo de ampolletas que usa: E27 máx 60Watts (equivalente a 100Watts e
 Garantía válida sólo por defectos en los materiales de fabricación
 Origen 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$59.383,00"
-8,7802005131603,BASEMENT HOME LÁMPARA SOBREMESA ARTICULADA CROMO,"Lámpara Sobremesa
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$59.383,00"""
+"8,7802005131603,BASEMENT HOME LÁMPARA SOBREMESA ARTICULADA CROMO,""Lámpara Sobremesa"
 Modelo: Articulada Cromo
 Marca: Basement Home
 Alto: 50 cm
@@ -103,8 +103,8 @@ Ancho: 20 cm
 Profundidad: 20 cm
 Material: Acero Cromado
 Color: Cromo
-Estilo: Moderno","$51.575,00"
-9,7802047351151,LÁMPARA DE CIELO PINTO EGLO,"Lámpara de Cielo Pinto Eglo
+"Estilo: Moderno"",""$51.575,00"""
+"9,7802047351151,LÁMPARA DE CIELO PINTO EGLO,""Lámpara de Cielo Pinto Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -117,11 +117,11 @@ Diseño: Cromado.
 Dimensiones
 Altura: 110 cm.
 Diámetro: 11 cm.
-Número de ampolletas: 1x60W E27.","$63.779,00"
-10,7802147246937,LAMPARA INFANTIL SMOBY,"Lámpara infantil
+"Número de ampolletas: 1x60W E27."",""$63.779,00"""
+"10,7802147246937,LAMPARA INFANTIL SMOBY,""Lámpara infantil"
 
-<h2>NIGHT LIGHT</h2><p>Ideal para la habitación de tu bebé es este espantacuco con diseño de luna e iluminación calmante que acompañará el sueño de tu hijo para que su descanso sea plácido. Son colores surtidos no a elección.","$9.938,00"
-11,7802234957111,LÁMPARA DE MESA ORION ROJO KOZIOL,"Lámpara de Mesa Orion Rojo Koziol
+"<h2>NIGHT LIGHT</h2><p>Ideal para la habitación de tu bebé es este espantacuco con diseño de luna e iluminación calmante que acompañará el sueño de tu hijo para que su descanso sea plácido. Son colores surtidos no a elección."",""$9.938,00"""
+"11,7802234957111,LÁMPARA DE MESA ORION ROJO KOZIOL,""Lámpara de Mesa Orion Rojo Koziol"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hogar. ¡Aprovecha estas lámparas y decora con lo mejor en decoración!
 
@@ -136,8 +136,8 @@ Número y tipo de ampolletas que usa : E27 máx 60Watts (equivalente a 100Watts 
 Garantía válida sólo por defectos en los materiales de fabricación
 Origen 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$61.869,00"
-12,7802412459321,LÁMPARA DE MESA ORION ROSADO KOZIOL,"Lámpara de Mesa Orion Rosado Koziol
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$61.869,00"""
+"12,7802412459321,LÁMPARA DE MESA ORION ROSADO KOZIOL,""Lámpara de Mesa Orion Rosado Koziol"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hogar. ¡Aprovecha estas lámparas y decora con lo mejor en decoración!
 
@@ -151,8 +151,8 @@ Número y tipo de ampolletas que usa : E27 máx 60Watts (equivalente a 100Watts 
 Garantía válida sólo por defectos en los materiales de fabricación
 Origen 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$53.771,00"
-13,7802819605420,LÁMPARA DE PIE BROWN SUGAR EGLO,"Lámpara de Pie Brown Sugar Eglo
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$53.771,00"""
+"13,7802819605420,LÁMPARA DE PIE BROWN SUGAR EGLO,""Lámpara de Pie Brown Sugar Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -165,8 +165,8 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 115,3 cm.
 Diámetro: 20 cm.
-Número de ampolletas: 1x100W E27.","$73.249,00"
-14,7802871717666,LÁMPARA DE CIELO BATISTA EGLO,"Notas del producto
+"Número de ampolletas: 1x100W E27."",""$73.249,00"""
+"14,7802871717666,LÁMPARA DE CIELO BATISTA EGLO,""Notas del producto"
 
 Garantía de 1 año.
 
@@ -199,23 +199,23 @@ Recuerda que los productos no pueden haber sido probados y/o usados, deben tener
 Importante
 Debes saber que solo se devolverá el costo del despacho si solicitas tu derecho al retracto por expectativas dentro de los 10 primeros días de haber recibido.
 
-TAMBIÉN TE RECOMENDAMOS","$43.207,00"
-15,7802896078384,LAMPARA INFANTIL LUMINOPET LUMINOSO,"Lámpara infantil
+"TAMBIÉN TE RECOMENDAMOS"",""$43.207,00"""
+"15,7802896078384,LAMPARA INFANTIL LUMINOPET LUMINOSO,""Lámpara infantil"
 
-Luminopets son lindas mascotas que ayudarán a tu hijo a que se sienta seguro a la hora de dormir. Si aprietas su manito izquierda su barriga se ilumina con una luz suave que va cambiando con los colores del arcoiris para que alcanzar un sueño tranquilo y sereno.<b>Producto NO a elección</b>","$36.788,00"
-16,7802941555419,MICA LÁMPARA LED VELADOR,"Lámpara Mesa
+"Luminopets son lindas mascotas que ayudarán a tu hijo a que se sienta seguro a la hora de dormir. Si aprietas su manito izquierda su barriga se ilumina con una luz suave que va cambiando con los colores del arcoiris para que alcanzar un sueño tranquilo y sereno.<b>Producto NO a elección</b>"",""$36.788,00"""
+"16,7802941555419,MICA LÁMPARA LED VELADOR,""Lámpara Mesa"
 Marca: Mica
 Modelo: Led
 Color: Negro
 Ancho: 42 cm
 Base: 17 cm
-Incluye de Regalo ampolleta led 5 w bajo consumo","$31.154,00"
-17,7803350771933,LAMPARA DE LAVA VOX,"Lámpara de Lava
+"Incluye de Regalo ampolleta led 5 w bajo consumo"",""$31.154,00"""
+"17,7803350771933,LAMPARA DE LAVA VOX,""Lámpara de Lava"
 
 Lámpara de lava 1030, de 40 cms.El interior es de cera amarilla y líquido azul, logrará un efecto espectacular. Esta lámpara es muy decorativa, ideal para integrar a todos tus espacios.
 
-Lámpara de lava 1030, de 40 cms.El interior es de cera amarilla y líquido azul, logrará un efecto espectacular. Esta lámpara es muy decorativa, ideal para integrar a todos tus espacios.","$34.813,00"
-18,7803441875823,LÁMPARA DE MESA ORION NARANJO KOZIOL,"Lámpara de Mesa Orion Naranjo Koziol
+"Lámpara de lava 1030, de 40 cms.El interior es de cera amarilla y líquido azul, logrará un efecto espectacular. Esta lámpara es muy decorativa, ideal para integrar a todos tus espacios."",""$34.813,00"""
+"18,7803441875823,LÁMPARA DE MESA ORION NARANJO KOZIOL,""Lámpara de Mesa Orion Naranjo Koziol"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hogar. ¡Aprovecha estas lámparas y decora con lo mejor en decoración!
 
@@ -229,21 +229,21 @@ Número y tipo de ampolletas que usa : E27 máx 60Watts (equivalente a 100Watts 
 Garantía válida sólo por defectos en los materiales de fabricación
 Origen 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$48.034,00"
-19,7803606809144,BASEMENT HOME LÁMPARA SOBREMESA FLEXIBLE PARAGON,"Lámpara Sobremesa
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$48.034,00"""
+"19,7803606809144,BASEMENT HOME LÁMPARA SOBREMESA FLEXIBLE PARAGON,""Lámpara Sobremesa"
 Marca: Basement Home
 Modelo: Paragon
 Color: Gris
 Material: Acero Níquel
 Tamaño: 31 cm
-Ampolleta Led 7 Watts","$70.159,00"
-20,7803921254094,MICA LÁMPARA 3 LUCES LÁGRIMAS NEGRA,"Lámpara de Colgar
+"Ampolleta Led 7 Watts"",""$70.159,00"""
+"20,7803921254094,MICA LÁMPARA 3 LUCES LÁGRIMAS NEGRA,""Lámpara de Colgar"
 Marca: Mica
 Modelo: Lágrimas
 Color: Negro
 Ancho: 45 cm
-Alto: 55 cm","$60.393,00"
-21,7803996699585,LÁMPARA DE CIELO JOSEPHINE M BLANCO,"Lámpara de cielo Josephine M Blanco
+"Alto: 55 cm"",""$60.393,00"""
+"21,7803996699585,LÁMPARA DE CIELO JOSEPHINE M BLANCO,""Lámpara de cielo Josephine M Blanco"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hogar. ¡Aprovecha estas lámparas y decora con lo mejor en decoración!
 
@@ -256,8 +256,8 @@ Diámetro: 31,3 cm
 Material de fabricación de partes y piezas : Plástico inyectado, libre de BPA y Melamina.
 Número y tipo de ampolletas que usa :E27 máx 60Watts (equivalente a 100Watts en ahorro energía)
 Garantía válida sólo por defectos en los materiales de fabricación
-Origen 100% Alemana","$76.709,00"
-22,7804405384702,LÁMPARA DE MESA PINTO NERO EGLO,"Lámpara de Mesa Pinto Nero Eglo
+"Origen 100% Alemana"",""$76.709,00"""
+"22,7804405384702,LÁMPARA DE MESA PINTO NERO EGLO,""Lámpara de Mesa Pinto Nero Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -270,8 +270,8 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 50 cm.
 Diámetro: 11,5 cm.
-Número de ampolletas: 1x60W E27.","$70.444,00"
-23,7804556874572,BASEMENT HOME LÁMPARA DE PIE 2 LUCES ARGUS,"Lámpara Pie
+"Número de ampolletas: 1x60W E27."",""$70.444,00"""
+"23,7804556874572,BASEMENT HOME LÁMPARA DE PIE 2 LUCES ARGUS,""Lámpara Pie"
 Modelo: Lámpara Pie Argus 2
 Marca: Diseño 3
 Alto: 170 cm
@@ -279,8 +279,8 @@ Ancho: 52 cm
 Profundidad: 52 cm
 Material: Acero Cromado
 Color: Cromo
-Estilo: Moderno","$81.859,00"
-24,7804565733907,LÁMPARA DE MESA NIZZA EGLO,"Lámpara de Mesa Nizza Eglo
+"Estilo: Moderno"",""$81.859,00"""
+"24,7804565733907,LÁMPARA DE MESA NIZZA EGLO,""Lámpara de Mesa Nizza Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -293,14 +293,14 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 32 cm.
 Diámetro: 10,5 cm.
-Número de ampolletas: 1x60W E14.","$31.395,00"
-25,7804693691131,MICA LÁMPARA 3 LUCES LÁGRIMAS ROJA,"Lámpara de Colgar
+"Número de ampolletas: 1x60W E14."",""$31.395,00"""
+"25,7804693691131,MICA LÁMPARA 3 LUCES LÁGRIMAS ROJA,""Lámpara de Colgar"
 Marca: Mica
 Modelo: Lágrimas
 Color: Rojo
 Ancho: 45 cm
-Alto: 55 cm","$56.747,00"
-26,7804788222905,BASEMENT HOME LÁMPARA ARTICULADA PI,"Lámpara Pie
+"Alto: 55 cm"",""$56.747,00"""
+"26,7804788222905,BASEMENT HOME LÁMPARA ARTICULADA PI,""Lámpara Pie"
 Modelo: Lámpara Articulada Pie
 Marca: Diseño 3
 Alto: 158 cm
@@ -308,8 +308,8 @@ Ancho: 22 cm
 Profundidad: 63 cm
 Material: Cromo-Eco cuero
 Color: Cromo
-Estilo: Moderno","$117.094,00"
-27,7804907236110,LÁMPARA DE PIE TUBE EGLO,"Lámpara de Pie Tube Eglo
+"Estilo: Moderno"",""$117.094,00"""
+"27,7804907236110,LÁMPARA DE PIE TUBE EGLO,""Lámpara de Pie Tube Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -322,8 +322,8 @@ Diseño: Aluminio Cepillado.
 Dimensiones
 Altura: 117 cm.
 Diámetro: 15 cm.
-Número de ampolletas: 2x60W E27.","$78.008,00"
-28,7805028956048,LÁMPARA DE CIELO 3 LUCES TROY EGLO,"Lámpara de Cielo 3 luces Troy Eglo
+"Número de ampolletas: 2x60W E27."",""$78.008,00"""
+"28,7805028956048,LÁMPARA DE CIELO 3 LUCES TROY EGLO,""Lámpara de Cielo 3 luces Troy Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -337,13 +337,13 @@ Dimensiones
 Altura: 110 cm.
 Largo: 72 cm.
 Ancho: 10,5 cm.
-Número de ampolletas: 3x60W E27.","$76.924,00"
-29,7805052680827,LAMPARA ESCRITORIO VOX,"Lámpara escritorio
+"Número de ampolletas: 3x60W E27."",""$76.924,00"""
+"29,7805052680827,LAMPARA ESCRITORIO VOX,""Lámpara escritorio"
 
 Lámpara con diseño único de color amarillo y verde. Será perfecta para integrarla a tus espacios y darle un aire distinto, su color alegrará tus habitaciones.
 
-Lámpara con diseño único de color amarillo y verde. Será perfecta para integrarla a tus espacios y darle un aire distinto, su color alegrará tus habitaciones.","$16.262,00"
-30,7805111853308,LÁMPARA DE MESA GLOSSY EGLO,"Lámpara de Mesa Glossy Eglo
+"Lámpara con diseño único de color amarillo y verde. Será perfecta para integrarla a tus espacios y darle un aire distinto, su color alegrará tus habitaciones."",""$16.262,00"""
+"30,7805111853308,LÁMPARA DE MESA GLOSSY EGLO,""Lámpara de Mesa Glossy Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -356,16 +356,16 @@ Diseño: Cromado.
 Dimensiones
 Altura: 41 cm.
 Longitud: 32,5 cm.
-Número de ampolletas: LED 1x2,38W.","$58.835,00"
-31,7805367674474,MICA LÁMPARA PIE LED,"Lámpara de Pie
+"Número de ampolletas: LED 1x2,38W."",""$58.835,00"""
+"31,7805367674474,MICA LÁMPARA PIE LED,""Lámpara de Pie"
 Marca: Mica
 Modelo: Lectura
 Color: Blanco
 Ancho: 120 cm
 Base: 26 cm
 Peso base: 5 Kg
-Incluye ampolleta Led","$41.005,00"
-32,7805671225140,LÁMPARA DE CIELO REED NEGRO KOZIOL,"Lámpara de Cielo Reed Negro Koziol
+"Incluye ampolleta Led"",""$41.005,00"""
+"32,7805671225140,LÁMPARA DE CIELO REED NEGRO KOZIOL,""Lámpara de Cielo Reed Negro Koziol"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hoga, darle claridad a tus ambientes. ¡Aprovecha esta oportunidad y decora con lo exclusivo que trae Deco hogar Paris!
 
@@ -379,8 +379,8 @@ Número y tipo de ampolletas que usa: E27 máx 60Watts (equivalente a 100Watts e
 Garantía válida sólo por defectos en los materiales de fabricación
 Origen 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$66.408,00"
-33,7805683368279,LÁMPARA DE CIELO SENDO EGLO,"Lámpara de Techo Sendo Eglo
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$66.408,00"""
+"33,7805683368279,LÁMPARA DE CIELO SENDO EGLO,""Lámpara de Techo Sendo Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -393,8 +393,8 @@ Diseño: Aluminio.
 Dimensiones
 Altura: 110 cm.
 Diámetro: 23 cm.
-Número de ampolletas: 1x100W E27.","$37.498,00"
-34,7805971729898,LÁMPARA DE CIELO TROY EGLO,"Lámpara de Cielo Troy Eglo
+"Número de ampolletas: 1x100W E27."",""$37.498,00"""
+"34,7805971729898,LÁMPARA DE CIELO TROY EGLO,""Lámpara de Cielo Troy Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -407,8 +407,8 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 110 cm.
 Diámetro: 10,5 cm.
-Número de ampolletas: 1x60W E27.","$30.132,00"
-35,7806069081669,LÁMPARA DE MESA MOOD ROJO KOZIOL,"Lámpara de Mesa Mood Rojo Koziol
+"Número de ampolletas: 1x60W E27."",""$30.132,00"""
+"35,7806069081669,LÁMPARA DE MESA MOOD ROJO KOZIOL,""Lámpara de Mesa Mood Rojo Koziol"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hoga, darle claridad a tus ambientes. ¡Aprovecha esta oportunidad y decora con lo exclusivo que trae Deco hogar Paris!
 
@@ -421,23 +421,23 @@ Número y tipo de ampolletas que usa E14 máx 40Watts (equivalente a 60Watts en 
 Garantía válida sólo por defectos en los materiales de fabricación
 Origen 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$30.700,00"
-36,7806319473176,LAMPARA DE PISO VOX,"Lámpara Piso New York
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$30.700,00"""
+"36,7806319473176,LAMPARA DE PISO VOX,""Lámpara Piso New York"
 
 Lámpara de piso con estructura de metal e increible diseño de la ciudad de Nueva York en la pantalla. Será idea para integrar en todos tus ambientes.
 
-Lámpara de piso con estructura de metal e increible diseño de la ciudad de Nueva York en la pantalla. Será idea para integrar en todos tus ambientes.","$62.833,00"
-37,7806322682558,LAMPARA AMPOLLETA VOX,"Lámpara escritorio
+"Lámpara de piso con estructura de metal e increible diseño de la ciudad de Nueva York en la pantalla. Será idea para integrar en todos tus ambientes."",""$62.833,00"""
+"37,7806322682558,LAMPARA AMPOLLETA VOX,""Lámpara escritorio"
 
 Lámpara con diseño único y divertido de ampolleta, color blanco. Será perfecta para integrarla a tus espacios y darle un aire distinto y con onda.
 
-Lámpara con diseño único y divertido de ampolleta, color blanco. Será perfecta para integrarla a tus espacios y darle un aire distinto y con onda.","$25.706,00"
-38,7806396185610,LAMPARA DE LAVA VOX,"Lámpara de Lava
+"Lámpara con diseño único y divertido de ampolleta, color blanco. Será perfecta para integrarla a tus espacios y darle un aire distinto y con onda."",""$25.706,00"""
+"38,7806396185610,LAMPARA DE LAVA VOX,""Lámpara de Lava"
 
 Lámpara de lava de color rosada, posee base electropintada también rosada, el líquido interior es transparente. Esta lámpara será perfecta para decorar e integrar a todos tus ambientes.
 
-Lámpara de lava de color rosada, posee base electropintada también rosada, el líquido interior es transparente. Esta lámpara será perfecta para decorar e integrar a todos tus ambientes.","$30.653,00"
-39,7806482442269,LÁMPARA DE CIELO 3 LUCES TANGA 1 EGLO,"Lámpara de Cielo 3 luces Tanga 1 Eglo
+"Lámpara de lava de color rosada, posee base electropintada también rosada, el líquido interior es transparente. Esta lámpara será perfecta para decorar e integrar a todos tus ambientes."",""$30.653,00"""
+"39,7806482442269,LÁMPARA DE CIELO 3 LUCES TANGA 1 EGLO,""Lámpara de Cielo 3 luces Tanga 1 Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -451,25 +451,25 @@ Dimensiones
 Altura: 110 cm.
 Largo: 46,5 cm.
 Ancho: 7 cm.
-Número de ampolletas: 3x40W G9.","$135.946,00"
-40,7806533722043,LAMPARA DE PISO VOX,"Lámpara Piso
+"Número de ampolletas: 3x40W G9."",""$135.946,00"""
+"40,7806533722043,LAMPARA DE PISO VOX,""Lámpara Piso"
 
 Lámpara de piso con forma tubular, posee un diseño con decoraciones de material símil lentejuelas de color plateadas. Ideal para integrar a tus ambientes y darle estilo a los espacios.
 
-Lámpara de piso con forma tubular, posee un diseño con decoraciones de material símil lentejuelas de color plateadas. Ideal para integrar a tus ambientes y darle estilo a los espacios.","$158.990,00"
-41,7806757448835,LAMPARA DE PISO VOX,"Lámpara Piso
+"Lámpara de piso con forma tubular, posee un diseño con decoraciones de material símil lentejuelas de color plateadas. Ideal para integrar a tus ambientes y darle estilo a los espacios."",""$158.990,00"""
+"41,7806757448835,LAMPARA DE PISO VOX,""Lámpara Piso"
 
 Lampara de piso de un 1,58 cms de alto. Posee pedestal de metal y pantalla de plástico. Ideal para integrar a tus ambientes para entregar estilo y diseño.
 
-Lampara de piso de un 1,58 cms de alto. Posee pedestal de metal y pantalla de plástico. Ideal para integrar a tus ambientes para entregar estilo y diseño.","$88.351,00"
-42,7806855300257,BASEMENT HOME LÁMPARA PIE FLEXIME PARAGON LED,"Lámpara Pie
+"Lampara de piso de un 1,58 cms de alto. Posee pedestal de metal y pantalla de plástico. Ideal para integrar a tus ambientes para entregar estilo y diseño."",""$88.351,00"""
+"42,7806855300257,BASEMENT HOME LÁMPARA PIE FLEXIME PARAGON LED,""Lámpara Pie"
 Marca: Basement Home
 Modelo: Paragon
 Color: Gris
 Material: Acero Níquel
 Tamaño: 150 cm
-Ampolleta Led 7 Watts","$111.136,00"
-43,7807134307899,LÁMPARA DE CIELO BROWN SUGAR EGLO,"Lámpara de Cielo Brown Sugar Eglo
+"Ampolleta Led 7 Watts"",""$111.136,00"""
+"43,7807134307899,LÁMPARA DE CIELO BROWN SUGAR EGLO,""Lámpara de Cielo Brown Sugar Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -482,8 +482,8 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 110 cm.
 Diámetro: 10,5 cm.
-Número de ampolletas: 1x60W E27.","$39.128,00"
-44,7807153985740,LÁMPARA DE CIELO 3 LUCES ALMERA EGLO,"Lámpara de Cielo 3 luces Almera Eglo
+"Número de ampolletas: 1x60W E27."",""$39.128,00"""
+"44,7807153985740,LÁMPARA DE CIELO 3 LUCES ALMERA EGLO,""Lámpara de Cielo 3 luces Almera Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -496,8 +496,8 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 110 cm.
 Longitud: 51,5 cm.
-Número de ampolletas: 3x40W E14.","$131.012,00"
-45,7807275218436,LÁMPARA DE CIELO 3 LUCES BROWN SUGAR EGLO,"Lámpara de Cielo 3 luces Brown Sugar Eglo
+"Número de ampolletas: 3x40W E14."",""$131.012,00"""
+"45,7807275218436,LÁMPARA DE CIELO 3 LUCES BROWN SUGAR EGLO,""Lámpara de Cielo 3 luces Brown Sugar Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -510,17 +510,17 @@ Diseño: Cromado.
 Dimensiones
 Altura: 110 cm.
 Longitud: 45,5 cm.
-Número de ampolletas: 3x40W G9.","$156.992,00"
-46,7807291472423,MICA LÁMPARA PIE LED CROMADA,"Lámpara de pie
+"Número de ampolletas: 3x40W G9."",""$156.992,00"""
+"46,7807291472423,MICA LÁMPARA PIE LED CROMADA,""Lámpara de pie"
 Marca: Mica
 Modelo: Julio
 Alto: 180 cm
 Base: 26 cm
 Color: Cromado
 Peso: 5 Kg
-Diámetro Tubo: 1/2""
-Incluye de Regalo ampolleta Led 5 w bajo consumo","$61.934,00"
-47,7807461895496,LÁMPARA DE MESA AMADORA EGLO,"Lámpara de Mesa Amadora Eglo
+"Diámetro Tubo: 1/2"""""
+"Incluye de Regalo ampolleta Led 5 w bajo consumo"",""$61.934,00"""
+"47,7807461895496,LÁMPARA DE MESA AMADORA EGLO,""Lámpara de Mesa Amadora Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -533,8 +533,8 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 46 cm.
 Diámetro: 10,5 cm.
-Número de ampolletas: 1x100W E27.","$36.014,00"
-48,7807590424338,BASEMENT HOME LÁMPARA DE VELADOR ELE,"Lámpara de Velador
+"Número de ampolletas: 1x100W E27."",""$36.014,00"""
+"48,7807590424338,BASEMENT HOME LÁMPARA DE VELADOR ELE,""Lámpara de Velador"
 Modelo: Ele de velador
 Marca: Diseño 3
 Alto: 53 cm
@@ -542,17 +542,17 @@ Ancho: 16 cm
 Profundidad: 23 cm
 Material: Acero Cromado
 Color: Cromo
-Estilo: Moderno","$28.303,00"
-49,7807620078746,MICA LÁMPARA PIE LED NEGRA,"Lámpara de pie
+"Estilo: Moderno"",""$28.303,00"""
+"49,7807620078746,MICA LÁMPARA PIE LED NEGRA,""Lámpara de pie"
 Marca: Mica
 Modelo: Julio
 Alto: 180 cm
 Base: 26 cm
 Color: Negro
 Peso: 5 Kg
-Diámetro Tubo: 1/2""
-Incluye de Regalo ampolleta led 5 w bajo consumo","$64.837,00"
-50,7807682660743,LÁMPARA DE MESA ORION NEGRO KOZIOL,"Lámpara de Mesa Orion Negro Koziol
+"Diámetro Tubo: 1/2"""""
+"Incluye de Regalo ampolleta led 5 w bajo consumo"",""$64.837,00"""
+"50,7807682660743,LÁMPARA DE MESA ORION NEGRO KOZIOL,""Lámpara de Mesa Orion Negro Koziol"
 Características
 
 Modelo: Orion T B/TR
@@ -563,21 +563,21 @@ Material de fabricación: Plástico inyectado, libre de BPA y Melamina.
 Número y tipo de ampolletas que usa : E27 máx 60Watts (equivalente a 100Watts en ahorro energía)
 Origen: 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$53.370,00"
-51,7807950399283,MICA LAMPARA PIE LED CROMADA,"Lámpara de Pie
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$53.370,00"""
+"51,7807950399283,MICA LAMPARA PIE LED CROMADA,""Lámpara de Pie"
 Marca: Mica
 Modelo: Lectura
 Color: Cromado
 Ancho: 120 cm
 Base: 26 cm
 Peso base: 5 Kg
-Incluye ampolleta Led","$52.812,00"
-52,7808007383019,LAMPARA DE GLITTER VOX,"Lámpara de Glitter
+"Incluye ampolleta Led"",""$52.812,00"""
+"52,7808007383019,LAMPARA DE GLITTER VOX,""Lámpara de Glitter"
 
 Lámpara de glitter rosada, con base electropintada del mismo color, mide 25 cms de altura.Esta lámpara será perfecta para decorar e integrar a todos tus ambientes.
 
-Lámpara de glitter rosada, con base electropintada del mismo color, mide 25 cms de altura.Esta lámpara será perfecta para decorar e integrar a todos tus ambientes.","$27.123,00"
-53,7808076181585,LÁMPARA DE MESA PYTON EGLO,"Lámpara de Mesa Pyton Eglo
+"Lámpara de glitter rosada, con base electropintada del mismo color, mide 25 cms de altura.Esta lámpara será perfecta para decorar e integrar a todos tus ambientes."",""$27.123,00"""
+"53,7808076181585,LÁMPARA DE MESA PYTON EGLO,""Lámpara de Mesa Pyton Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -590,8 +590,8 @@ Diseño: Cromado.
 Dimensiones
 Altura: 36 cm.
 Ancho base: 9,5 cm.
-Número de ampolletas: 1x33W G9.","$59.768,00"
-54,7808214271161,LÁMPARA DE CIELO REED ROJO KOZIOL,"Lámpara de Cielo Reed Rojo Koziol
+"Número de ampolletas: 1x33W G9."",""$59.768,00"""
+"54,7808214271161,LÁMPARA DE CIELO REED ROJO KOZIOL,""Lámpara de Cielo Reed Rojo Koziol"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hoga, darle claridad a tus ambientes. ¡Aprovecha esta oportunidad y decora con lo exclusivo que trae Deco hogar Paris!
 
@@ -605,13 +605,13 @@ Número y tipo de ampolletas que usa: E27 máx 60Watts (equivalente a 100Watts e
 Garantía válida sólo por defectos en los materiales de fabricación
 Origen 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$59.077,00"
-55,7808299775653,LAMPARA ESCRITORIO VOX,"Lámpara escritorio
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$59.077,00"""
+"55,7808299775653,LAMPARA ESCRITORIO VOX,""Lámpara escritorio"
 
 Lámpara con diseño único de color blanco. Será perfecta para integrarla a tus espacios y darle un aire distinto, su color te inspirará pureza.
 
-Lámpara con diseño único de color blanco. Será perfecta para integrarla a tus espacios y darle un aire distinto, su color te inspirará pureza.","$15.150,00"
-56,7808429910145,LÁMPARA DE CIELO TANGA EGLO,"Lámpara de techo Tanga Eglo
+"Lámpara con diseño único de color blanco. Será perfecta para integrarla a tus espacios y darle un aire distinto, su color te inspirará pureza."",""$15.150,00"""
+"56,7808429910145,LÁMPARA DE CIELO TANGA EGLO,""Lámpara de techo Tanga Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -624,8 +624,8 @@ Diseño: Cromado.
 Dimensiones
 Altura: 110 cm.
 Longitud: 55 cm.
-Número de ampolletas: 1x40W G9.","$36.411,00"
-57,7808600171815,BASEMENT HOME LÁMPARA DE PIE ELE,"Lámpara Pie Ele
+"Número de ampolletas: 1x40W G9."",""$36.411,00"""
+"57,7808600171815,BASEMENT HOME LÁMPARA DE PIE ELE,""Lámpara Pie Ele"
 Modelo: Lámpara de pie con aplicación de eco cuero
 Marca: Diseño 3
 Alto: 159 cm
@@ -633,15 +633,15 @@ Ancho: 30 cm
 Profundidad: 48 cm
 Material: Acero Cromado
 Color: Cromo
-Estilo: Moderno","$81.855,00"
-58,7808638258700,BASEMENT HOME LÁMPARA SOBREMESA CON TUBO PARAGON LED,"Lámpara Sobremesa
+"Estilo: Moderno"",""$81.855,00"""
+"58,7808638258700,BASEMENT HOME LÁMPARA SOBREMESA CON TUBO PARAGON LED,""Lámpara Sobremesa"
 Marca: Basement Home
 Modelo: Paragon
 Material: Acero Níquel
 Tamaño: 31 cm
 Color: Gris
-Ampolleta Led 7 Watts","$74.251,00"
-59,7808693945577,LÁMPARA DE PIE AMADORA EGLO,"Lámpara de Pie Amadora Eglo
+"Ampolleta Led 7 Watts"",""$74.251,00"""
+"59,7808693945577,LÁMPARA DE PIE AMADORA EGLO,""Lámpara de Pie Amadora Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -654,8 +654,8 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 153 cm.
 Diámetro: 20 cm.
-Número de ampolletas: 1x100W E27.","$78.194,00"
-60,7808817111604,LÁMPARA DE CIELO KAMEO EGLO,"Lámpara de Cielo Kameo Eglo
+"Número de ampolletas: 1x100W E27."",""$78.194,00"""
+"60,7808817111604,LÁMPARA DE CIELO KAMEO EGLO,""Lámpara de Cielo Kameo Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -668,13 +668,13 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 110 cm.
 Diámetro: 9 cm.
-Número de ampolletas: 1x60W E14.","$43.920,00"
-61,7808887314158,LAMPARA DE LAVA VOX,"Lámpara de Lava
+"Número de ampolletas: 1x60W E14."",""$43.920,00"""
+"61,7808887314158,LAMPARA DE LAVA VOX,""Lámpara de Lava"
 
 Lámpara de lava, de 52 cms de altura.El interior es de cera roja y el líquido es azul, logrará un efecto espectacular. Esta lámpara es muy decorativa, ideal para integrar a todos tus espacios.
 
-Lámpara de lava, de 52 cms de altura.El interior es de cera roja y el líquido es azul, logrará un efecto espectacular. Esta lámpara es muy decorativa, ideal para integrar a todos tus espacios.","$34.432,00"
-62,7808890002172,LÁMPARA DE CIELO STELLA M MORADO KOZIOL,"Lámpara de Cielo Stella M Morado Koziol
+"Lámpara de lava, de 52 cms de altura.El interior es de cera roja y el líquido es azul, logrará un efecto espectacular. Esta lámpara es muy decorativa, ideal para integrar a todos tus espacios."",""$34.432,00"""
+"62,7808890002172,LÁMPARA DE CIELO STELLA M MORADO KOZIOL,""Lámpara de Cielo Stella M Morado Koziol"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hoga, darle claridad a tus ambientes. ¡Aprovecha esta oportunidad y decora con lo exclusivo que trae Deco hogar Paris!
 
@@ -688,8 +688,8 @@ Número y tipo de ampolletas que usa E27 máx 42 Watts (equivalente a 100 Watts 
 Garantía válida sólo por defectos en los materiales de fabricación
 Origen 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$68.671,00"
-63,7808901646715,LÁMPARA DE MESA ORION VERDE KOZIOL,"Lámpara de Mesa Orion Verde Koziol
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$68.671,00"""
+"63,7808901646715,LÁMPARA DE MESA ORION VERDE KOZIOL,""Lámpara de Mesa Orion Verde Koziol"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hogar. ¡Aprovecha estas lámparas y decora con lo mejor en decoración!
 
@@ -703,8 +703,8 @@ Material de fabricación: Plástico inyectado, libre de BPA y Melamina.
 Número y tipo de ampolletas que usa: E27 máx 60Watts (equivalente a 100Watts en ahorro energía)
 Origen: 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$61.903,00"
-64,7808924033936,LÁMPARA DE CIELO AMADORA EGLO,"Lámpara de Cielo Amadora Eglo
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$61.903,00"""
+"64,7808924033936,LÁMPARA DE CIELO AMADORA EGLO,""Lámpara de Cielo Amadora Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -717,8 +717,8 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 110 cm.
 Diámetro: 10,5 cm.
-Número de ampolletas: 1x60W E27","$33.389,00"
-65,7808983698589,BASEMENT HOME LÁMPARA SOBREMESA 2 LUCES ARGUS,"Lámpara Sobremesa Argus
+"Número de ampolletas: 1x60W E27"",""$33.389,00"""
+"65,7808983698589,BASEMENT HOME LÁMPARA SOBREMESA 2 LUCES ARGUS,""Lámpara Sobremesa Argus"
 Modelo: Lámpara Articulada Sobremesa 2 luces Argus
 Marca: Diseño 3
 Alto: 77 cm
@@ -726,15 +726,15 @@ Ancho: 39 cm
 Profundidad: 39 cm
 Material: Acero Cromado
 Color: Cromo
-Estilo: Moderno","$57.399,00"
-66,7809391323476,BASEMENT HOME LÁMPARA DE SOBREMESA FLEXIBLE PINZAS LED,"Lámpara de Sobremesa Flexible Pinzas Led Paragon 5 watts
+"Estilo: Moderno"",""$57.399,00"""
+"66,7809391323476,BASEMENT HOME LÁMPARA DE SOBREMESA FLEXIBLE PINZAS LED,""Lámpara de Sobremesa Flexible Pinzas Led Paragon 5 watts"
 Modelo: Lámpara de Sobremesa Flexible Pinzas Led
 Marca: Basement Home
 Alto: 31 cm
 Material: Acero Níquel
 Color: Cromado
-Estilo: Moderno","$42.573,00"
-67,7809488107040,LÁMPARA DE MESA MOOD NARANJO KOZIOL,"Lámpara de Mesa Mood Naranjo Koziol
+"Estilo: Moderno"",""$42.573,00"""
+"67,7809488107040,LÁMPARA DE MESA MOOD NARANJO KOZIOL,""Lámpara de Mesa Mood Naranjo Koziol"
 
 Lo mejor en iluminación Alemana ha llegado a Paris, con estas hermosas lámparas, especiales para darle un diseño único a tu hoga, darle claridad a tus ambientes. ¡Aprovecha esta oportunidad y decora con lo exclusivo que trae Deco hogar Paris!
 
@@ -747,15 +747,15 @@ Número y tipo de ampolletas que usa E14 máx 40Watts (equivalente a 60Watts en 
 Garantía válida sólo por defectos en los materiales de fabricación
 Origen 100% Alemana
 
-*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl","$32.872,00"
-68,7809679563761,BASEMENT HOME LÁMPARA SOBRE MESA TRIPODE LINO,"Lámsobre mesa
+"*En caso de dudas con respecto a la instalación o consultas técnicas, llamar al (56+2) 2206 4552 o escriba a info@luzco.cl"",""$32.872,00"""
+"68,7809679563761,BASEMENT HOME LÁMPARA SOBRE MESA TRIPODE LINO,""Lámsobre mesa"
 Marca: Basement Home
 Modelo: Tripode
 Estilo: Moderno
 Material estructura: Metal
 Funciona con ampolleta
-Color: Blanco/Negro","$50.096,00"
-69,7809798479790,LÁMPARA DE CIELO TANGA 1 EGLO,"Lámpara de Cielo Tanga 1 Eglo
+"Color: Blanco/Negro"",""$50.096,00"""
+"69,7809798479790,LÁMPARA DE CIELO TANGA 1 EGLO,""Lámpara de Cielo Tanga 1 Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -769,8 +769,8 @@ Dimensiones
 Altura: 110 cm.
 Largo: 5,5 cm.
 Ancho: 5,5 cm.
-Número de ampolletas: 1x40W G9.","$37.942,00"
-70,7809949055835,LÁMPARA DE CIELO 3 LUCES AMADORA EGLO,"Lámpara de Cielo 3 luces Amadora Eglo
+"Número de ampolletas: 1x40W G9."",""$37.942,00"""
+"70,7809949055835,LÁMPARA DE CIELO 3 LUCES AMADORA EGLO,""Lámpara de Cielo 3 luces Amadora Eglo"
 
 Eglo, reconocida empresa Austriaca con más de 70 sucursales alrededor del mundo, llega a Paris.cl con estas increíbles y sofisticadas lámparas que le darán una nueva personalidad a tu hogar. De líneas simples y minimalistas especiales para decorar cualquier espacio de tu casa, estas lámparas están hechas bajo los más altos estándares de calidad y además cuentan con 1 año de garantía.
 
@@ -783,4 +783,4 @@ Diseño: Niquel mate.
 Dimensiones
 Altura: 110 cm.
 Longitud: 72 cm.
-Número de ampolletas: 3x60W E27.","$105.192,00"
+"Número de ampolletas: 3x60W E27."",""$105.192,00"""

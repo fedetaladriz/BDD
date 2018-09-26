@@ -1,4 +1,4 @@
-,id_compra,fecha,id_tienda,id_usuario
+id_compra,fecha,id_tienda,id_usuario
 0,0,1/2/13,136,90
 1,1,1/5/13,123,33
 2,2,1/7/13,139,11

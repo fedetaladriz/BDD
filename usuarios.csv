@@ -1,4 +1,4 @@
-,id_usuario,apellido,nombre,correo,sexo,edad
+id_usuario,apellido,nombre,correo,sexo,edad
 0,0,ABUSLEME,RAFAEL ANTONIO,raabusleme@uc.cl,M,20
 1,1,AGUILLÓN,JUAN JOSÉ ARTURO,jjaguillon@uc.cl,M,19
 2,2,ALLIENDE,MARÍA JOSEFINA,moalliende@uc.cl,F,18
