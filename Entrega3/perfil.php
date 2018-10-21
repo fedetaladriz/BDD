@@ -1,6 +1,6 @@
 
 <?php
-  session_start(); // this NEEDS TO BE AT THE TOP of the page before any output etc
+  session_start();
   $user = $_SESSION['user'];
   $password = $_SESSION['password'];
 ?>
